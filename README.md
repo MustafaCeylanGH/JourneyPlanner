@@ -18,6 +18,10 @@ JourneyPlanner is a web application designed to help users plan their journeys b
 - Journey Check page: Planned journeys are displayed sorted by date, allowing you to systematically view your travels.
 - Responsive design for desktop
 
+## Note
+
+Please note that this project is not optimized for mobile devices. It was intentionally developed for desktop use as part of a portfolio project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
