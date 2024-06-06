@@ -1,3 +1,21 @@
+# JourneyPlanner Project
+
+A web application for planning journeys by selecting destinations on a map.
+
+## Project Link
+
+## Overview
+
+JourneyPlanner is a web application designed to help users plan their journeys by selecting destinations on a map. It allows users to add multiple locations, view them on the map, and organize their travel plans effectively.
+
+## Features
+
+- Select destinations on a map by clicking
+- Display selected locations with markers on the map
+- Planify page: Add locations, set dates for each destination
+- Journey Check page: Planned journeys are displayed sorted by date, allowing you to systematically view your travels.
+- Responsive design for desktop
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
