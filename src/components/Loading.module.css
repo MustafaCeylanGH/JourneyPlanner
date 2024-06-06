@@ -1,0 +1,7 @@
+.loading {
+  position: absolute;
+  right: 30%;
+  top: 40%;
+  font-size: 3.6rem;
+  font-weight: 600;
+}
