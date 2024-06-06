@@ -4,6 +4,8 @@ A web application for planning journeys by selecting destinations on a map.
 
 ## Project Link
 
+Click [here](https://mustafa-ceylan-journeyplanner.netlify.app/) to view the project live.
+
 ## Overview
 
 JourneyPlanner is a web application designed to help users plan their journeys by selecting destinations on a map. It allows users to add multiple locations, view them on the map, and organize their travel plans effectively.
